@@ -15,12 +15,12 @@ SERVER_ID = "f7cecbb969b74579b90390406412108f"
 PRIVATE_KEY_NAME = "private_20191118211504.key"
 
 # LOCAL ADDRESS
-LOCAL_ADDRESS = "https://samplebot9-app.herokuapp.com/"
+LOCAL_ADDRESS = "https://samplebot-app.herokuapp.com/"
 
 # DB config
-DB_HOST = "ec2-107-22-163-220.compute-1.amazonaws.com"
+DB_HOST = "ec2-107-21-98-89.compute-1.amazonaws.com"
 DB_PORT = "5432"
-DB_NAME = "dr6o3ko1vjllr"
-DB_USER = "mdxoqoydcmushb"
-DB_PASSWORD = "bf113df4fad5a070d7eb0a5c54a17339ba0b4b3b19fdb88350a3e480d7d2dd32"
+DB_NAME = "d83t1dkrasq3jc"
+DB_USER = "khufgkwfgmduln"
+DB_PASSWORD = "1be711dbc329a2e81e9ed8f97e6fa0a2a199851f5e393617c5d16983a3331d6b"
 DB_SSLMODE = "prefer"
