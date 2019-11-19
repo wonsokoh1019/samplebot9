@@ -18,9 +18,9 @@ PRIVATE_KEY_NAME = "private_20191118211504.key"
 LOCAL_ADDRESS = "https://samplebot-app.herokuapp.com/"
 
 # DB config
-DB_HOST = "ec2-54-227-249-108.compute-1.amazonaws.com
+DB_HOST = "ec2-54-227-249-108.compute-1.amazonaws.com"
 DB_PORT = "5432"
-DB_NAME = "dclgtbah32di9u"
-DB_USER = "pgonalerqnuxlh"
-DB_PASSWORD = "37b23a9304c8c939c88213b5dbf8eaaad9d963319bf8c11ad1cad56aec05f093"
+DB_NAME = "d2ai2ns5ed9f2p"
+DB_USER = "redyxlcimjvaza"
+DB_PASSWORD = "50e2132e001e20fb64dbde47019598c9bb78755d62c6630c12323c30caa0d862"
 DB_SSLMODE = "prefer"
